@@ -1,4 +1,6 @@
 # Hey 👋🏽, I'm Dominica, thanks for stopping by!
+## Background
+- [About Me](https://cometolifeapps.io/about.html)
 
 ## Tech Focus
 ![tech focus](skills_focus.png)
