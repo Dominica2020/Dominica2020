@@ -11,3 +11,9 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
+### Connect with me:
+
+https://www.linkedin.com/in/dominicap/
+
+### Languages & Tools:
+
