@@ -4,8 +4,7 @@
 ![tech focus](skills_focus.png)
 
 ## Connect with me:
-
-https://www.linkedin.com/in/dominicap/
+- [LinkedIn](https://www.linkedin.com/in/dominicap)
 
 ## Languages & Tools:
-
+Python • JavaScript • React.js • Bootstrap • MySQL • PostgreSQL • Flask • Django • APIs • Node.js • MongoDB • Databases • Docker • Kubernetes • Pandas • NumPy • Scikit Learn • Matplotlib • Selenium • Seaborn • Beautiful Soup • Plotly • HTML • CSS • Git • Version Control
