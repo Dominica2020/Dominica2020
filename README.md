@@ -3,7 +3,7 @@
 - [About Me](https://cometolifeapps.io/about.html)
 
 ## Tech Focus
-I specialize in python programming, its frameworks & libraries. As full-stack engineer my focus is also back-end development. I am happily open to collaboration! 
+I specialize in python programming, its frameworks & libraries. As full-stack engineer my focus is also back-end development. I am open to collaborating! 
 
 ![tech focus](skills_focus.png)
 
