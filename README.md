@@ -11,4 +11,4 @@ I specialize in python programming, its frameworks & libraries. As a full-stack 
 - [LinkedIn](https://www.linkedin.com/in/dominicap)
 
 ## Languages & Tools:
-Python • JavaScript • React.js • Bootstrap • MySQL • PostgreSQL • Flask • Django • APIs • Node.js • Express.js • MongoDB • Databases • Docker • Kubernetes • Pandas • NumPy • Scikit Learn • Matplotlib • Selenium WebDriver • Seaborn • Beautiful Soup • Plotly • HTML • CSS • Git • Version Control
+Python • JavaScript • React.js • Bootstrap • Flask • Django • APIs • SQL • MySQL • PostgreSQL • SQLite • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Docker • Kubernetes • Pandas • NumPy • Scikit Learn • Matplotlib • Selenium WebDriver • Seaborn • Beautiful Soup • Plotly • Heroku • HTML • CSS • jQuery • Git • GitHub • Version Control • Authentication
