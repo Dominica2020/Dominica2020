@@ -5,7 +5,7 @@
 ## Tech Focus
 I specialize in python programming, its frameworks & libraries. As a full-stack engineer my preference is for back-end development. Interested in working with me? I'm happy to collaborate! 
 
-![tech focus](Featured_Skills23.png)
+![tech focus](Skills_2023.png)
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/dominicap)
