@@ -1,7 +1,21 @@
 <h1 align="center">Hey 👋🏽, I'm Dominica, thanks for stopping by!</h1>
 
 ## Tech Focus
-<img src="Skills_2023.png" width="700" height="350"/>
+<p align="left">
+<a href="https://www.python.org/" target="blank"><img align="center" src="python.png" alt="tech-foucs" height="80" width="80" /></a>
+</p>
+
+- Scripting & Automation
+- Web Scraping
+- Full-Stack Web Apps (Django/Flask)
+- SQL & NoSQL Databases
+- Responsive Web Design
+- APIs & Cloud Computing
+- Data Science & Machine Learning 
+- Data Visualization
+- Python Game Development
+- Python GUI Desktop App Development
+- Object-oriented Programming (OOP)
 
 ## Background
 <p align="left">
