@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋🏽, I'm Dominica, thanks for stopping by!</h1>
-<p align="center"><img src="Skills_2023.png" width="600" height="350"/></p>
+
+## Tech Focus
+<img src="Skills_2023.png" width="700" height="350"/>
 
 ## Background
 <p align="left">
