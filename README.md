@@ -10,6 +10,9 @@
 - [LinkedIn](https://www.linkedin.com/in/dominicap)
 
 ## Languages & Tools:
-Python • JavaScript • React.js • Bootstrap • Flask • Django • APIs • SQL • MySQL • PostgreSQL • SQLite • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Docker • Kubernetes • WTForms • Tkinter • Pandas • NumPy • Scikit Learn • Matplotlib • TensorFlow • Selenium WebDriver • Seaborn • Beautiful Soup • Plotly • R • Heroku • GUnicorn • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • Jupyter Notebook
+<p>Python • JavaScript • React.js • Bootstrap • Flask • Django • APIs • SQL • MySQL • PostgreSQL • SQLite • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Docker • Kubernetes • WTForms • Tkinter • Pandas • NumPy • Scikit Learn • Matplotlib • TensorFlow • Selenium WebDriver • Seaborn • Beautiful Soup • Plotly • R • Heroku • GUnicorn • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • Jupyter Notebook</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominica2020&label=Profile%20views&color=0e75b6&style=flat" alt="dominica2020" /> </p>
+<br>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominica2020&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="dominica2020" /> </p>
