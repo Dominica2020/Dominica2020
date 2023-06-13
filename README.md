@@ -5,7 +5,7 @@
 
 ## Background
 <p align="left">
-<a href="https://cometolifeapps.io/about.html" target="blank"><img align="center" src="classictube.jpeg" alt="about-me" height="80" width="80" /></a>
+<a href="https://cometolifeapps.io/about.html" target="blank"><img align="center" src="information1.png" alt="about-me" height="80" width="80" /></a>
 </p>
 
 ## Connect with me:
