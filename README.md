@@ -1,11 +1,12 @@
-# Hey 👋🏽, I'm Dominica, thanks for stopping by!
+<h1 align="center">Hey 👋🏽, I'm Dominica, thanks for stopping by!</h1>
+
 ## Background
 - [About Me](https://cometolifeapps.io/about.html)
 
 ## Tech Focus
 Interested in working with me? I'm happy to collaborate! 
 
-![tech focus](Skills_2023.png)
+<img src="Skills_2023.png" width="550" height="350"/>
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/dominicap)
