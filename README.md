@@ -4,7 +4,9 @@
 <img src="Skills_2023.png" width="550" height="350"/>
 
 ## Background
-- [About Me](https://cometolifeapps.io/about.html)
+<p align="left">
+<a href="https://cometolifeapps.io/about.html" target="blank"><img align="center" src="classictube.jpeg" alt="about-me" height="80" width="80" /></a>
+</p>
 
 ## Connect with me:
 <p align="left">
