@@ -5,14 +5,15 @@
 <a href="https://www.python.org/" target="blank"><img align="center" src="python.png" alt="tech-foucs" height="80" width="80" /></a>
 </p>
 
+- Advanced Python 3
 - Scripting & Automation
 - Web Scraping
 - Full-Stack Web Apps (Django/Flask)
 - SQL & NoSQL Databases
 - Responsive Web Design
 - APIs & Cloud Computing
-- Data Science & Machine Learning 
 - Data Visualization
+- Data Science & Machine Learning 
 - Python Game Development
 - Python GUI Desktop App Development
 - Object-oriented Programming (OOP)
