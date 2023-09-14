@@ -14,7 +14,6 @@
 - SQL & NoSQL Databases
 - Back-End Development (Django/Flask)
 - Data Science, Machine Learning & AI
-- Python Game & Desktop App Development
 - Python Libraries & Frameworks
 - Object-oriented Programming (OOP)
 
