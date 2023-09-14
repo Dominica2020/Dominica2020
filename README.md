@@ -6,16 +6,15 @@
 </p>
 
 - Advanced Python 3
-- Scripting & Automation
-- Web Scraping
-- Full-Stack Web Apps (Django/Flask)
-- SQL & NoSQL Databases
+- Python Automation
+- Python Web Scraping
+- Full-Stack Web Apps 
 - Responsive Web Design
 - APIs & Cloud Computing
-- Data Visualization
-- Data Science & Machine Learning 
-- Python Game Development
-- Python GUI Desktop App Development
+- SQL & NoSQL Databases
+- Back-End Development (Django/Flask)
+- Data Science, Machine Learning & AI
+- Python Game & Desktop App Development
 - Object-oriented Programming (OOP)
 
 ## Background
