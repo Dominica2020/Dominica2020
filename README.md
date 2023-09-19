@@ -10,11 +10,10 @@
 - Python Web Scraping
 - Full-Stack Web Apps 
 - Responsive Web Design
-- APIs & Cloud Computing
-- SQL & NoSQL Databases
+- APIs & Databases (SQL & NoSQL)
+- Python Libraries & Frameworks
 - Back-End Development (Django/Flask)
 - Data Science, Machine Learning & AI
-- Python Libraries & Frameworks
 - Object-oriented Programming (OOP)
 
 ## Background
