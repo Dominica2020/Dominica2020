@@ -26,8 +26,8 @@
 <a href="https://linkedin.com/in/dominicap" target="blank"><img align="center" src="linkedin.png" alt="dominica" height="80" width="80" /></a>
 </p>
 
-## Languages & Tools:
-<p>Python • JavaScript • React.js • Bootstrap • Flask • Django • APIs • SQL • MySQL • PostgreSQL • SQLite • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Docker • Kubernetes • WTForms • Tkinter • Pandas • NumPy • Scikit Learn • Matplotlib • TensorFlow • Selenium WebDriver • Seaborn • Beautiful Soup • Plotly • R • Heroku • GUnicorn • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • Jupyter Notebook</p>
+## Skills, Languages & Tools:
+<p>Python 3 • JavaScript • React.js • Bootstrap • Flask • Django • APIs • SQL • MySQL • PostgreSQL • SQLite • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • WTForms • Tkinter • Pandas • NumPy • Scikit Learn • Matplotlib • TensorFlow • Selenium WebDriver • Seaborn • Beautiful Soup • Plotly • R • C • Heroku • GUnicorn • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • Jupyter Notebook • utomation • Web Scraping • Full-Stack Development • Web, App & Game Dev • OOP • Responsive Design • Data Science • AI • Machine Learning • Digital Product Management • Customer Service • Process Improvement • Domain Registration • Cloud Hosting</p>
 
 <br>
 <br>
