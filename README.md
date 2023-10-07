@@ -27,7 +27,7 @@
 </p>
 
 ## Skills, Languages & Tools:
-<p>PPython 3 • JavaScript • React.js • Bootstrap • Flask • Django • APIs • SQL • MySQL • PostgreSQL • SQLite • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Pandas • NumPy • Scikit Learn • Matplotlib • TensorFlow • Seaborn • Beautiful Soup • R • C • Heroku • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • Jupyter Notebook • Automation • Web Scraping • Full-Stack Development • Web, App & Game Development • Object-oriented Programming (OOP) • Responsive Design • Databases • Data Science • AI • Machine Learning • Digital Product Management • Customer Service • Process Improvement • Wireframes • Domain Registration • Cloud Hosting • Frameworks & Libraries • IDE</p>
+<p>Python 3 • JavaScript • React.js • Bootstrap • Flask • Django • APIs • SQL • MySQL • PostgreSQL • SQLite • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Pandas • NumPy • Scikit Learn • Matplotlib • TensorFlow • Seaborn • Beautiful Soup • R • C • Heroku • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • Jupyter Notebook • Automation • Web Scraping • Full-Stack Development • Web, App & Game Development • Object-oriented Programming (OOP) • Responsive Design • Databases • Data Science • AI • Machine Learning • Digital Product Management • Customer Service • Process Improvement • Wireframes • Domain Registration • Cloud Hosting • Frameworks & Libraries • IDE</p>
 
 <br>
 <br>
