@@ -15,6 +15,7 @@
 - Back-End Development (Django)
 - Data Science, Machine Learning & AI
 - Object-oriented Programming (OOP)
+- Technology Consulting & Education
 
 ## Background
 <p align="left">
