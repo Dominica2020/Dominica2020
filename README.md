@@ -5,14 +5,13 @@
 <a href="https://www.python.org/" target="blank"><img align="center" src="python.png" alt="tech-foucs" height="80" width="80" /></a>
 </p>
 
-- Advanced Python 3
+- Python 3 Programming
 - Python Automation
-- Python Web Scraping
-- Full-Stack Web Apps 
+- Python Web Scraping 
 - Responsive Web Design
 - APIs & Databases (SQL & NoSQL)
 - Python Libraries & Frameworks
-- Back-End Development (Django)
+- Full-Stack Development (Django)
 - Data Science, Machine Learning & AI
 - Object-oriented Programming (OOP)
 - Technology Consulting & Education
