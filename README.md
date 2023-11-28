@@ -6,7 +6,6 @@
 </p>
 
 - Python 3 Programming
-- Python Automation
 - Python Web Scraping 
 - Responsive Web Design
 - APIs & Databases (SQL & NoSQL)
