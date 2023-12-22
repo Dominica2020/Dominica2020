@@ -1,6 +1,8 @@
-<h1 align="center">Hey 👋🏽, I'm Dominica, thanks for stopping by!</h1>
+<h1 align="center">Hey 👋🏽, I'm Dominica!</h1>
+<p>Thanks for visiting! After exploring fossils, diving into hospitality, travel and tourism, and working at university ... I was finally bitten by the Entrepreneurship, Real Estate and Software Bug.</p>
+<p>I am a self-taught python programmer with an eclectic background. I love lifelong learning, entrepreneurship, natural sciences, exotic animals, travel and tourism, architecture, and real estate.</p>
 
-## Tech Focus
+## Tech Experience
 <p align="left">
 <a href="https://www.python.org/" target="blank"><img align="center" src="python.png" alt="tech-foucs" height="80" width="80" /></a>
 </p>
@@ -14,6 +16,30 @@
 - Object-oriented Programming (OOP)
 - Technology Consulting & Education
 - Data Science & Artificial Intelligence
+
+## Additional Skills
+- Spanish
+- Research
+- Real Estate
+- Entrepreneurship
+- Lifelong Learning
+
+## International Experience
+- England
+- Wales
+- Germany
+- France
+- Italy
+- Spain
+- Peru
+- Chile
+- Costa Rica
+- Ireland
+- Colombia
+- Netherlands
+- El Salvador
+- Monaco
+- Vatican City State
 
 ## Background
 <p align="left">
