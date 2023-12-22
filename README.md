@@ -50,7 +50,7 @@
 - Vatican City State
 
 ## Previous Portfolio & Business
-ComeToLifeApps.io (previous tech portfolio snapshot)
+ComeToLifeApps.io (previous tech portfolio snapshot - retired 2023)
 <p align="left">
 <img align="center" src="ctla-icon.png" alt="old-portfolio" height="220" width="190" />
 </p>
