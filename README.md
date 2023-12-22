@@ -50,16 +50,19 @@
 - Vatican City State
 
 ## Previous Portfolio & Business
+ComeToLifeApps.io (previous tech portfolio snapshot)
 <p align="left">
-<img align="center" src="skills-icon.png" alt="tech-foucs" height="80" width="80" />
+<img align="center" src="ctla-icon.png" alt="old-portfolio" height="220" width="190" />
 </p>
 
-- ComeToLifeApps.io (old tech portfolio)
-- Isle of Apps ()
+Isle of Apps (previous business that provided customized tech services - retired in 2023)
+<p align="left">
+<img align="center" src="palms-icon.png" alt="isle_of_apps" height="100" width="100" />
+</p>
 
 ## Languages & Tools
 <p align="left">
-<img align="center" src="tech_skills-icon.png" alt="languages_tools" height="80" width="80" />
+<img align="center" src="computer-icon.png" alt="" height="80" width="80" />
 </p>
 
 <p>Python 3 • JavaScript • React.js • Bootstrap • Django • APIs • SQL • MySQL • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Pandas • NumPy • Scikit Learn • Matplotlib • Seaborn • Beautiful Soup • R • C • Heroku • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • IDLE • Jupyter Notebook • Web Scraping • Full-Stack Development • Web, App & Game Development • Object-oriented Programming (OOP) • Responsive Design • Databases • Data Science • AI • ChatGPT • Digital Product Management • Wireframes • Cloud Hosting • Frameworks & Libraries</p>
