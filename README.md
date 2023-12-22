@@ -49,10 +49,13 @@
 - Monaco
 - Vatican City State
 
-## Background
+## Previous Portfolio & Business
 <p align="left">
-<a href="https://github.com/Dominica2020/ComeToLifeApps.io" target="blank"><img align="center" src="information2.png" alt="about-me" height="80" width="80" /></a>
+<img align="center" src="skills-icon.png" alt="tech-foucs" height="80" width="80" />
 </p>
+
+- ComeToLifeApps.io (old tech portfolio)
+- Isle of Apps ()
 
 ## Languages & Tools
 <p align="left">
