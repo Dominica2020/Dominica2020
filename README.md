@@ -4,7 +4,7 @@
 
 ## Tech Experience
 <p align="left">
-<a href="https://www.python.org/" target="blank"><img align="center" src="python.png" alt="tech-foucs" height="80" width="80" /></a>
+<a href="https://www.python.org/" target="blank"><img align="center" src="python.png" alt="tech-focus" height="80" width="80" /></a>
 </p>
 
 - Python 3 Programming 
@@ -18,6 +18,10 @@
 - Data Science & Artificial Intelligence
 
 ## Additional Skills
+<p align="left">
+<img align="center" src="skills-icon.png" alt="additional_skills" height="80" width="80" />
+</p>
+
 - Spanish
 - Research
 - Real Estate
@@ -25,6 +29,10 @@
 - Lifelong Learning
 
 ## International Experience
+<p align="left">
+<img align="center" src="earth-icon.png" alt="tinternational_experience" height="80" width="80" />
+</p>
+
 - England
 - Wales
 - Germany
@@ -46,7 +54,11 @@
 <a href="https://github.com/Dominica2020/ComeToLifeApps.io" target="blank"><img align="center" src="information2.png" alt="about-me" height="80" width="80" /></a>
 </p>
 
-## Skills, Languages & Tools:
+## Languages & Tools
+<p align="left">
+<img align="center" src="tech_skills-icon.png" alt="languages_tools" height="80" width="80" />
+</p>
+
 <p>Python 3 • JavaScript • React.js • Bootstrap • Django • APIs • SQL • MySQL • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Pandas • NumPy • Scikit Learn • Matplotlib • Seaborn • Beautiful Soup • R • C • Heroku • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • IDLE • Jupyter Notebook • Web Scraping • Full-Stack Development • Web, App & Game Development • Object-oriented Programming (OOP) • Responsive Design • Databases • Data Science • AI • ChatGPT • Digital Product Management • Wireframes • Cloud Hosting • Frameworks & Libraries</p>
 
 <br>
