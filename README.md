@@ -17,7 +17,7 @@
 
 ## Background
 <p align="left">
-<a href="https://cometolifeapps.io/about.html" target="blank"><img align="center" src="information2.png" alt="about-me" height="80" width="80" /></a>
+<a href="https://github.com/Dominica2020/ComeToLifeApps.io" target="blank"><img align="center" src="information2.png" alt="about-me" height="80" width="80" /></a>
 </p>
 
 ## Skills, Languages & Tools:
