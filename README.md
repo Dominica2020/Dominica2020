@@ -61,6 +61,8 @@ Isle of Apps (previous business that provided customized tech services - retired
 <img align="center" src="palms-icon.png" alt="isle_of_apps" height="100" width="100" />
 </p>
 
+<p>Made technology a breeze by providing smooth, reliable, fast & customized tech services. Clients saved time by cutting out the middleman - aka freelancing platforms.</p>
+
 ## Languages & Tools
 <p align="left">
 <img align="center" src="computer-icon.png" alt="" height="80" width="80" />
