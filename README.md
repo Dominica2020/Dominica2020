@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋🏽, I'm Dominica!</h1>
 <p>Thanks for visiting! After exploring fossils, diving into hospitality, travel and tourism, and working at university ... I was finally bitten by the Entrepreneurship and Software Bug.</p>
-<p>I am a self-taught python programmer with an eclectic background. I love lifelong learning, entrepreneurship, natural sciences, exotic animals, travel and tourism, architecture, and real estate.</p>
+<p>I am a self-taught python programmer with an eclectic background. I love lifelong learning, entrepreneurship, natural sciences, exotic animals, travel and tourism, architecture and real estate.</p>
 <p>Completed professional development, certifications, self-paced bootcamps and self-study.</p>
-<p>Tech Training Sources: The App Brewery, Udemy, W3Schools, freeCodeCamp, Coursera, 365 Careers, Sololearn, YouTube, Google & Books.</p>
+<p>Tech Training Sources: The App Brewery, Udemy, W3Schools, freeCodeCamp, Coursera, 365 Careers, Sololearn, YouTube, Google and Books.</p>
 
 ## Tech Experience
 <p align="left">
