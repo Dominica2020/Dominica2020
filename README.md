@@ -52,12 +52,14 @@
 - Vatican City State
 
 ## Previous Portfolio & Business
-ComeToLifeApps.io (previous tech portfolio snapshot - retired in 2023)
+### ComeToLifeApps.io
+Previous tech portfolio snapshot
 <p align="left">
 <img align="center" src="ctla-icon.png" alt="old-portfolio" height="220" width="190" />
 </p>
 
-Isle of Apps (previous business that provided customized tech services - retired in 2023)
+### Isle of Apps 
+Previous business
 <p align="left">
 <img align="center" src="palms-icon.png" alt="isle_of_apps" height="100" width="100" />
 </p>
