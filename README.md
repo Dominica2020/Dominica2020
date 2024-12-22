@@ -49,7 +49,7 @@
 - Monaco
 - Vatican City State
 
-## Previous Portfolio & Business
+## Previous Portfolio & Freelance Business
 ### ComeToLifeApps.io
 Previous tech portfolio snapshot
 <p align="left">
@@ -57,7 +57,7 @@ Previous tech portfolio snapshot
 </p>
 
 ### Isle of Apps 
-Previous business
+Previous freelance business
 <p align="left">
 <img align="center" src="palms-icon.png" alt="isle_of_apps" height="100" width="100" />
 </p>
