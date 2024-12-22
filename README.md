@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋🏽, I'm Dominica!</h1>
 <p>Thanks for visiting! I am a self-taught python programmer with an eclectic background. I enjoy many things including: lifelong learning, entrepreneurship, natural sciences, exotic animals, music, Spanish, travel and tourism, architecture and real estate.</p>
-<p>Over a four-year period I've completed professional development, certifications, self-paced bootcamps, and self-study in computer programming and data science. I also had the opportunity to offer freelance customized technology services.</p>
+<p>Over a four-year period I've completed professional development, certifications, self-paced bootcamps, and self-study in computer programming and data science. I also had the opportunity to offer customized freelance technology services.</p>
 <p>Tech Training Sources: The App Brewery, Udemy, W3Schools, freeCodeCamp, Coursera, 365 Careers, Sololearn, YouTube, Google and Books.</p>
 
 ## Tech Experience
