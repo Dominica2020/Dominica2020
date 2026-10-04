@@ -15,8 +15,7 @@
 - APIs & Databases (SQL & NoSQL)
 - Python Libraries & Frameworks
 - Object-oriented Programming (OOP)
-- Technology Consulting & Education
-- Data Science & Artificial Intelligence
+- Technology Support & Education
 
 ## Additional Skills
 <p align="left">
@@ -69,7 +68,7 @@ Previous freelance business
 <img align="center" src="computer-icon.png" alt="" height="80" width="80" />
 </p>
 
-<p>Python 3 • JavaScript • React.js • Bootstrap • Django • APIs • SQL • MySQL • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Pandas • NumPy • Scikit Learn • Matplotlib • Seaborn • Beautiful Soup • R • C • Heroku • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • IDLE • Jupyter Notebook • Web Scraping • Full-Stack Development • Web, App & Game Development • Object-oriented Programming (OOP) • Responsive Design • Databases • Data Science • AI • ChatGPT • Digital Product Management • Wireframes • Cloud Hosting • Frameworks & Libraries</p>
+<p>Python 3 • JavaScript • React.js • Bootstrap • Django • APIs • SQL • MySQL • NoSQL • Node.js • Express.js • MongoDB • EJS • npm • Pandas • NumPy • Scikit Learn • Matplotlib • Seaborn • Beautiful Soup • R • C • Heroku • HTML • CSS • jQuery • Git • GitHub • Version Control • Canva • Adobe Creative Cloud • Anaconda • Microsoft Visual Studio Code • PyCharm • IDLE • Jupyter Notebook • Web Scraping • Full-Stack Development • Web, App & Game Development • Object-oriented Programming (OOP) • Responsive Design • Databases • Generative AI Applications • Digital Product Management • Wireframes • Cloud Hosting • Frameworks & Libraries</p>
 
 <br>
 <br>
